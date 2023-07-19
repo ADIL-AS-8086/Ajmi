@@ -1,0 +1,304 @@
+.header{
+    background: #e01b1b;
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    
+}
+body{
+    margin: 0%;
+}
+.img1{
+    width: 100px;
+    height: 70px;
+    margin-left: 24px;
+}
+.logo{
+    float: left;
+    width: 40%;
+}
+.links{
+    float: left;
+    width: 60%;
+    padding-top: 38px;
+}
+.headerlink{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 35px;
+    font-weight: bold;
+}
+.image2{
+    height: 543px;
+}
+.body2{
+    width: 100%;
+    height: 130px;
+}
+.background{
+    width: 100%;
+    height: 130px;
+}
+.discover{
+    margin-top: -117px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: larger;
+    color: #e01b1b;
+}
+.peragraph{
+    color: #000;
+    margin-left: 10px;
+}
+.p1{
+    width: 20%;
+    height: 300px;
+    float: left;
+}
+.p2{
+    width: 20%;
+    height: 300px;
+    float: left;
+}
+.p3{
+    width: 20%;
+    height: 300px;
+    float: left;
+}.p4{
+    width: 20%;
+    height: 300px;
+    float: left;
+}.p5{
+    width: 20%;
+    height: 300px;
+    float: left;
+}
+.body-2-img{
+    width: 217px;
+    height: 310px;
+    padding-left: 18px;
+    background-image: url("https://ajmifoods.com/assets/images/section-bg-1.jpg");
+}
+.product-section{
+    background-image: url("https://ajmifoods.com/assets/images/section-bg-1.jpg");
+    width: 100%;
+    height: 320px;
+}
+.body-3{
+    background-image: url(https://ajmifoods.com/assets/images/peach-acrylic-brush-stroke-vector.jpg);
+    width: 100%;
+    height: 270px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom,50%;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    position: relative;
+
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 400px;
+    background: #e2211c;
+    background: linear-gradient(144deg,#e2211c,#e2211c 24%,#d00b03 80%);
+    opacity: .8;
+
+}
+.img3body{
+    position: absolute;
+    top: 0;
+    left: 846px;
+    bottom: 0px;
+    right: 0;
+    box-sizing: border-box;
+    padding: 0;
+    border: none;
+    margin: auto;
+    display: block;
+    width: 0;
+    height: 0;
+    min-width: 26%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+.company{
+    padding-left: 45px;
+    color: #fff;
+    padding-top: 40px;
+
+}
+.aboutcompany{
+    padding-left: 60px;
+    color: #fff;
+    padding-top: 57px;
+}
+.viewbtn{
+    width: 150px;
+    height: 40px;
+    border-radius: 0 20px;
+    border: 1px;
+    border-color: #d00b03;
+    color: white;
+    background: #d00b03;
+    margin-left: 46px;
+    text-align: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.body-4{
+    width: 100%;
+    height: 400px;
+    background-image: url(https://ajmifoods.com/assets/images/white-painted-wood-textured-background.jpg);
+}
+.body-4-1{
+    width: 50%;
+    height: 400px;
+    float: left;
+
+}
+.body-4-2{
+    width: 50%;
+    height: 400px;
+    float: left;
+}    
+.imgrecipe{
+    width: 227px;
+    height: 318px;
+    margin-left: 266px;
+    margin-top: 51px;
+
+}
+.recipe{
+    margin-left: 80px;
+    margin-top: 80px;
+    color: red;
+}
+.recipedetails{
+    margin-left: 80px;
+    margin-top: 30px;
+    font-family: Poppins,sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    color: #000;
+
+}
+.footermain{
+    height: 480px;
+    width: 100%;
+    background: #000;
+}
+.footer1{
+    width: 100%;
+    height: 200px;
+    background: #000;
+    padding-top: 1px;
+    
+}
+.footer2{
+    width: 100%;
+    height: 200px;
+    background: #000;
+    padding-top: 1px;
+}
+
+.footer3{
+    width: 100%;
+    height: 80px;
+    background: red;
+    
+}
+.f-1-1{
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+.f-1-2{
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+.f-1-3{
+    width: 34%;
+    height: 200px;
+    float: left;
+}
+.f-2-1{
+    width: 40%;
+    height: 200px;
+    float: left;
+}
+.f-2-2{
+    width: 60%;
+    height: 200px;
+    float: left;
+}
+.mobnumber{
+    color: #fff;
+    padding-top: 100px;
+    margin-left: 16px;
+    font-size: medium;
+    float: left;
+}
+.mobileimg{
+   margin-left: 80px;
+   margin-top: 110px;
+   width: 26px;
+   height: 20px;
+   float: left;
+}
+.emailimg{
+    float: left;
+    height: 20px;
+    width: 23px;
+     margin-top: 109px;
+}
+.email{
+    float: left;
+    margin-top: 109px;
+    margin-left: 21px;
+    color: #fff;
+    
+}
+.locationimg{
+    float: left;
+    margin-top: 106px;
+    height: 30px;
+    width: 26px;
+}
+.location{
+    float: left;
+    color: #fff;
+    margin-top: 106px;
+    margin-left: 27px;
+    line-height: 27px;
+
+}
+.connectimg{
+    float: left;
+    margin-top: -4px;
+    margin-left: 70px;
+}
+.connect{
+    color: #fff;
+    margin-left: 70px;
+}
+.parause{
+    color: #fff;
+    margin-left: 96px;
+}
+.usefull{
+    color: #fff;
+    float: left;
+    margin-left: 100px;
+}
+.copywright {
+    color: #fff;
+    float: left;
+    margin-left: 415px;
+    padding-top: 17px;
+}
